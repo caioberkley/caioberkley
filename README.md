@@ -51,7 +51,3 @@ Freelances
 |--|--|--|
 |Grupo FCamara|Banco PAN - Conta Digital|[Ver APP](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
 |Ab-Inbev|Bess|[Ver APP](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
-|MC1|WTM3TM|[Ver APP](https://apps.apple.com/br/app/wtm3d/id1539497527)|
-|Escola Geração Futuro|Geração Futuro APP|[Ver APP](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820)|
-|Escola Geração Futuro|Geração Futuro Educador|[Ver APP](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820)|
-
