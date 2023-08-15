@@ -1,4 +1,4 @@
-<h1> Hey, my name is <strong>Caior!</strong> </h1> 
+<h1> Hey, my name is <strong>Caio Berkley!</strong> </h1> 
 <img src="https://raw.githubusercontent.com/gcmms/gcmms/master/src/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> Sobre
@@ -6,15 +6,15 @@ Sou um desenvolvedor mobile com mais de 8 anos de experiência profissional, sen
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Objective-C, Swift, kotlin, Flutter, React.</strong>
+  🧠 Linguagens: <strong>Objective-C, Swift, kotlin, Flutter, React.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Xcode, Visual Studio Code, Jira, Google Cloud, Azure, GitLab, GitHub, Bitbucket, Jenkins, Bitrise </strong>
+  🛠️ Ferramentas: <strong>Xcode, Visual Studio Code, Jira, Google Cloud, Azure, GitLab, GitHub, Bitbucket, Jenkins, Bitrise </strong>
 </p>
 
 <p align="left">
-  💌  Contact me: ⤵️
+  👇🏻  Contact me: ⤵️
 </p>
 
 <p align="left" 
@@ -31,4 +31,24 @@ Sou um desenvolvedor mobile com mais de 8 anos de experiência profissional, sen
 
 <br>
 
+Principais Projetos
+
+| Empresa | Aplicativo |Link|
+|--|--|--|
+|Meta|Agente de Camopo|[Ver APP](https://apps.apple.com/br/app/agente-de-campo/id1513040092)|
+|Bornlogic|Gerentes Digitais|[Ver APP](https://apps.apple.com/br/app/gerentes-digitais/id1578496893)|
+|Ipiranga|Abastece Aí|[Ver APP](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
+|Santander|Santander Empresas|[Ver APP](https://apps.apple.com/br/app/santander-empresas/id615442443)|
+|Natura|Natura:Perfumes e Cosmeticos|[Ver APP](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
+|Itau|ion Itaú - Investimentos|[Ver APP](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
+|Webmotors|Webmotors - comprar veiculos|[Ver APP](https://apps.apple.com/us/app/webmotors-comprar-ve%C3%ADculos/id496509047)|
+|PRG|Omeupredio Plus|[Ver APP](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
+
+Freelances
+
+|Grupo FCamara|Banco PAN - Conta Digital|[Ver APP](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
+|Ab-Inbev|Bess|[Ver APP](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
+|MC1|WTM3TM|[Ver APP](https://apps.apple.com/br/app/wtm3d/id1539497527)|
+|Escola Geração Futuro|Geração Futuro APP|[Ver APP](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820)|
+|Escola Geração Futuro|Geração Futuro Educador|[Ver APP](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820)|
 
