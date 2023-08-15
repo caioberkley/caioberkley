@@ -43,7 +43,6 @@ Principais Projetos
 |Itau|ion Itaú - Investimentos|[Ver APP](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
 |Webmotors|Webmotors - comprar veiculos|[Ver APP](https://apps.apple.com/us/app/webmotors-comprar-ve%C3%ADculos/id496509047)|
 |PRG|Omeupredio Plus|[Ver APP](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
-
 Freelances
 
 |Grupo FCamara|Banco PAN - Conta Digital|[Ver APP](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
