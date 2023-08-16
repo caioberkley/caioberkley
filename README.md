@@ -1,54 +1,45 @@
-<h1> Hey, my name is <strong>Caio Berkley!</strong> </h1> 
-<img src="![96a42b93e3034cfa928c601d59723ee6](https://github.com/caioberkley/caioberkley/assets/32444538/facc4637-66da-4834-8e66-f0b751ba0b7f)
-" min-width="400px" max-width="400px" width="400px" align="right">
+# It´s "a me", Caio!
 
-<p align="left"> Sobre
-Sou um desenvolvedor mobile com mais de 8 anos de experiência profissional, sendo cerca de 6 deles focados em iOS (ObjC/Swift/SwiftUI) e com breves passagens em outras linguagens como Kotlin, Java, React Native e Flutter.
-</p>
+I ́m a mobile developer with over 8 years of professional experience, with approximately 6 years focused on iOS ObjC/Swift/SwiftUI and with brief experiences in other languages such as Kotlin, Java, React Native, and Flutter.
 
-<p align="left">
-  🧠 Linguagens: <strong>Objective-C, Swift, kotlin, Flutter, React.</strong>
-</p>
+In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my boyfriend, friends, and family.
 
-<p align="left">
-  🛠️ Ferramentas: <strong>Xcode, Visual Studio Code, Jira, Google Cloud, Azure, GitLab, GitHub, Bitbucket, Jenkins, Bitrise </strong>
-</p>
+My experience includes working at renowned companies (Meta, Santander, Natura, Itaú Unibanco, and Webmotors), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
 
-<p align="left">
-  👇🏻  Contact me: ⤵️
-</p>
+## Skills:
+- iOS development (Objective-C, Swift, SwiftUI);
+- Design patterns/code architecture (MVVM, Viper, MVC, VipClean);
+- Dependency injection (CocoaPods, Swift Package Manager/SPM, Carthage);
+- Version control with GIT (Sourcetree/BitBucket, GitHub, GitLab, Azure DevOps);
+- Experience working remotely in teams that utilize agile practices (Scrum, Kanban);
+- Love writing user-focused, testable, and concise code (Clean Code, SOLID principles);
+- Conflict resolution, always with a proactive and dialogue-oriented approach (Diplomat);
+- Bug fixing and handling smaller tasks for mobile apps in general (Kotlin, Java, React Native, Flutter);
+- Continuous integration and deployment CI/CD environment (Jenkins, Bitrise, Microsoft App Center);
+- Code refactoring, merge conflict resolution, and supporter of the code review culture (Xcode, Visual Studio). 
 
-<p align="left" 
-    <img src="https://img.shields.io/badge/-Portfolio-0008ff?style=flat-square&labelColor=0090ff&logo=safari&logoColor=white" /></a>
-    <a href="mailto:caioberkley@gmail.com" target="_blank" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/caioberkley/" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-     square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioberkley/" /></a>
-    <a href="https://www.instagram.com/caioberkley/" target="_blank" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel.sanzone/"/></a>
-    
-    
-</p>
+P.S.: I always try to see the bright side of things and be understanding (an incurable optimist)!
+Hobbies:
 
-<br>
+- Enthusiast of new technologies Artificial Intelligence, Virtual Reality, IoT;
+- Comics, books, movies, music, and pop culture;
+- Video games, board games, and card games;
+- Drawing (both manually and digitally);
+- Cycling, hiking, and camping.
 
-Principais Projetos
+## Past Projects
 
-| Empresa | Aplicativo |Link|
-|--|--|--|
-|Meta|Agente de Camopo|[Ver APP](https://apps.apple.com/br/app/agente-de-campo/id1513040092)|
-|Bornlogic|Gerentes Digitais|[Ver APP](https://apps.apple.com/br/app/gerentes-digitais/id1578496893)|
-|Ipiranga|Abastece Aí|[Ver APP](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
-|Santander|Santander Empresas|[Ver APP](https://apps.apple.com/br/app/santander-empresas/id615442443)|
-|Natura|Natura:Perfumes e Cosmeticos|[Ver APP](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
-|Itau|ion Itaú - Investimentos|[Ver APP](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
-|Webmotors|Webmotors - comprar veiculos|[Ver APP](https://apps.apple.com/us/app/webmotors-comprar-ve%C3%ADculos/id496509047)|
-|PRG|Omeupredio Plus|[Ver APP](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
-
-
-Freelances
-
-| Empresa | Aplicativo |Link|
-|--|--|--|
-|Grupo FCamara|Banco PAN - Conta Digital|[Ver APP](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
-|Ab-Inbev|Bess|[Ver APP](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
+| Company | App |
+|--|--|
+|Meta|[SINESP Agente de Campo](https://apps.apple.com/br/app/agente-de-campo/id1513040092)|
+|Bornlogic|[Gerentes Digitais](https://apps.apple.com/br/app/gerentes-digitais/id1578496893)|
+|Ipiranga|[abastece-aí (Km de Vantagens)](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
+|Ab-Inbev|[Bees](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
+|Grupo FCamara|[Banco PAN - Conta Digital](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
+|Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443)|
+|Moochies Technologies|[MyMoochies](https://apps.apple.com/gb/app/mymoochies/id1585809293)|
+|Prodesp|[Minha Escola SP](https://apps.apple.com/br/app/detran-sp/id702633073?see-all=developer-other-apps)|
+|Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
+|Itau Unibanco|[ion Itaú - Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
+|Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512)|
+|PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
