@@ -1,6 +1,5 @@
 <h1> Hey, my name is <strong>Caio Berkley!</strong> </h1> 
-<img src="![96a42b93e3034cfa928c601d59723ee6](https://github.com/caioberkley/caioberkley/assets/32444538/9e3b4318-879c-494d-8258-a490ac5c817e)
-">min-width="400px" max-width="400px" width="400px" align="right"
+<img src="https://raw.githubusercontent.com/gcmms/gcmms/master/src/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> Sobre
 Sou um desenvolvedor mobile com mais de 8 anos de experiência profissional, sendo cerca de 6 deles focados em iOS (ObjC/Swift/SwiftUI) e com breves passagens em outras linguagens como Kotlin, Java, React Native e Flutter.
