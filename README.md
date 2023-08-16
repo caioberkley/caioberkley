@@ -1,5 +1,5 @@
 <h1> Hey, my name is <strong>Caio Berkley!</strong> </h1> 
-<img src="https://www.google.com/search?sca_esv=557314902&rlz=1C5MACD_enBR1048BR1048&sxsrf=AB5stBgd_1P38KgXlj14cVetp_VSwRvL2w:1692153748841&q=computador+desenho+png&tbm=isch&source=lnms&sa=X&ved=2ahUKEwimmOv4k-CAAxX8MLkGHU6HAtsQ0pQJegQIDBAB&biw=1440&bih=783&dpr=2#imgrc=hCmaB9yyR_iEZM" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="">
 
 <p align="left"> Sobre
 Sou um desenvolvedor mobile com mais de 8 anos de experiência profissional, sendo cerca de 6 deles focados em iOS (ObjC/Swift/SwiftUI) e com breves passagens em outras linguagens como Kotlin, Java, React Native e Flutter.
