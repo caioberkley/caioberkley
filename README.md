@@ -1,5 +1,5 @@
 <h1> Hey, my name is <strong>Caio Berkley!</strong> </h1> 
-<img src="">
+<img src="https://github.com/caioberkley/caioberkley/issues/1#issue-1852419931">
 
 <p align="left"> Sobre
 Sou um desenvolvedor mobile com mais de 8 anos de experiência profissional, sendo cerca de 6 deles focados em iOS (ObjC/Swift/SwiftUI) e com breves passagens em outras linguagens como Kotlin, Java, React Native e Flutter.
