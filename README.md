@@ -17,7 +17,7 @@ My experience includes working at renowned companies (Meta, Santander, Natura, I
 |Grupo FCamara|[Banco PAN - Conta Digital](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
 |Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443)|
 |Moochies Technologies|[MyMoochies](https://apps.apple.com/gb/app/mymoochies/id1585809293)|
-|Prodesp|[Minha Escola SP](https://apps.apple.com/br/app/detran-sp/id702633073?see-all=developer-other-apps)|
+|Prodesp|[Minha Escola SP](https://apps.apple.com/br/developer/companhia-de-processamento-de-dados-do-estado-de-s%C3%A3o-paulo/id684060661)|
 |Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
 |Itau Unibanco|[ion Itaú - Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
 |Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512)|
