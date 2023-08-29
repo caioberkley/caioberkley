@@ -6,6 +6,23 @@ In my free time, I enjoy traveling (especially to the interior of the Northeast 
 
 My experience includes working at renowned companies (Meta, Santander, Natura, Itaú Unibanco, and Webmotors), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
 
+## Past Projects
+
+| Company | App |
+|--|--|
+|Meta|[SINESP Agente de Campo](https://apps.apple.com/br/app/agente-de-campo/id1513040092)|
+|Bornlogic|[Gerentes Digitais](https://apps.apple.com/br/app/gerentes-digitais/id1578496893)|
+|Ipiranga|[abastece-aí (Km de Vantagens)](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
+|Ab-Inbev|[Bees](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
+|Grupo FCamara|[Banco PAN - Conta Digital](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
+|Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443)|
+|Moochies Technologies|[MyMoochies](https://apps.apple.com/gb/app/mymoochies/id1585809293)|
+|Prodesp|[Minha Escola SP](https://apps.apple.com/br/app/detran-sp/id702633073?see-all=developer-other-apps)|
+|Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
+|Itau Unibanco|[ion Itaú - Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
+|Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512)|
+|PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
+
 ## Skills:
 - iOS development (Objective-C, Swift, SwiftUI);
 - Design patterns/code architecture (MVVM, Viper, MVC, VipClean);
@@ -26,20 +43,3 @@ Hobbies:
 - Video games, board games, and card games;
 - Drawing (both manually and digitally);
 - Cycling, hiking, and camping.
-
-## Past Projects
-
-| Company | App |
-|--|--|
-|Meta|[SINESP Agente de Campo](https://apps.apple.com/br/app/agente-de-campo/id1513040092)|
-|Bornlogic|[Gerentes Digitais](https://apps.apple.com/br/app/gerentes-digitais/id1578496893)|
-|Ipiranga|[abastece-aí (Km de Vantagens)](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
-|Ab-Inbev|[Bees](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
-|Grupo FCamara|[Banco PAN - Conta Digital](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
-|Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443)|
-|Moochies Technologies|[MyMoochies](https://apps.apple.com/gb/app/mymoochies/id1585809293)|
-|Prodesp|[Minha Escola SP](https://apps.apple.com/br/app/detran-sp/id702633073?see-all=developer-other-apps)|
-|Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
-|Itau Unibanco|[ion Itaú - Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
-|Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512)|
-|PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
