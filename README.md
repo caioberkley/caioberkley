@@ -1,6 +1,6 @@
 # It´s "a me", Caio!
 
-I ́m a mobile developer with over 8 years of professional experience, with approximately 6 years focused on iOS ObjC/Swift/SwiftUI and with brief experiences in other languages such as Kotlin, Java, React Native, and Flutter.
+I'm a mobile developer with over 8 years of professional experience, approximately 6 years focused on iOS ObjC/Swift/SwiftUI, and brief experiences in other languages such as Kotlin, Java, React Native, and Flutter.
 
 In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my boyfriend, friends, and family.
 
