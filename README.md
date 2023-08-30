@@ -16,12 +16,12 @@ My experience includes working at renowned companies (Meta, Santander, Natura, I
 |Ipiranga|[abastece-aí (Km de Vantagens)](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
 |Anheuser-Busch InBev|[Bees](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
 |FCamara|[Banco PAN - Conta Digital](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
-|Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443)|
+|Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443) / [Santander Way](https://apps.apple.com/br/app/santander-way/id1154266372)|
 |Moochies Technologies|[MyMoochies](https://apps.apple.com/gb/app/mymoochies/id1585809293)|
-|PRODESP|[Minha Escola SP](https://apps.apple.com/br/developer/companhia-de-processamento-de-dados-do-estado-de-s%C3%A3o-paulo/id684060661)|
+|PRODESP|[Di@rio de Classe SP](https://apps.apple.com/br/app/di-rio-de-classe-sp/id1548962574)|
 |Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276)|
-|Itaú|[ion Itaú - Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
-|Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512)|
+|Itaú|[íon Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746) / [Meditação](https://apps.apple.com/br/app/medita%C3%A7%C3%A3o-natura/id1407427495)|
+|Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512) / [Autopago](https://apps.apple.com/br/app/webmotors-autopago/id1422505821)|
 |PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)|
 
 ## Skills:
