@@ -23,7 +23,7 @@ My experience includes working at renowned companies (Meta, Santander, Natura, I
 |Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276) / [Meditação](https://apps.apple.com/br/app/medita%C3%A7%C3%A3o-natura/id1407427495)|
 |Itaú|[íon Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
 |Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512) / [Autopago](https://apps.apple.com/br/app/webmotors-autopago/id1422505821)|
-|PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143)/ [White-labels](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps)|  
+|PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) / [White-labels](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps)|  
 
 ## Skills:
 - iOS development (Objective-C, Swift, SwiftUI);
