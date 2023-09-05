@@ -10,20 +10,20 @@ My experience includes working at renowned companies (Meta, Santander, Natura, I
 
 | Company | App |
 |--|--|
-|Meta|[SINESP Agente de Campo](https://apps.apple.com/br/app/agente-de-campo/id1513040092)|
-|Mazzatech|[Sodexo](https://apps.apple.com/br/app/sodexo-brasil/id921795142)|
-|Ginga One|[Sicoob](https://apps.apple.com/br/app/sicoob/id416696406) / [Moob](https://apps.apple.com/br/app/sicoob-moob/id1446784675)|
-|Bornlogic|[Gerentes Digitais](https://apps.apple.com/br/app/gerentes-digitais/id1578496893)|
-|Ipiranga|[abastece-aí (Km de Vantagens)](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
-|Anheuser-Busch InBev|[Bees](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580)|
-|FCamara|[Banco PAN - Conta Digital](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
-|Santander|[Santander Empresas](https://apps.apple.com/br/app/santander-empresas/id615442443) / [Santander Way](https://apps.apple.com/br/app/santander-way/id1154266372)|
-|Moochies Technologies|[MyMoochies](https://apps.apple.com/gb/app/mymoochies/id1585809293)|
-|PRODESP|[Di@rio de Classe SP](https://apps.apple.com/br/app/di-rio-de-classe-sp/id1548962574)|
-|Natura|[Natura Latam](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276) / [Meditação](https://apps.apple.com/br/app/medita%C3%A7%C3%A3o-natura/id1407427495)|
-|Itaú|[íon Investimentos](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746)|
-|Webmotors|[Cockpit](https://apps.apple.com/br/app/cockpit/id1069917512) / [Autopago](https://apps.apple.com/br/app/webmotors-autopago/id1422505821)|
-|PRG|[Omeupredio Plus](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) / [White-labels](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps)|  
+|Meta| SINESP Agente de Campo ( [iOS](https://apps.apple.com/br/app/agente-de-campo/id1513040092) / [Android](https://play.google.com/store/apps/details?id=br.gov.sinesp.agentedecampo&hl=pt_BR&gl=US) )|
+|Mazzatech| Sodexo ( [iOS](https://apps.apple.com/br/app/sodexo-brasil/id921795142) )|
+|Ginga One| Sicoob ( [iOS](https://apps.apple.com/br/app/sicoob/id416696406) / [Android](https://play.google.com/store/apps/details?id=br.com.sicoobnet&hl=pt_BR&gl=US) ), Moob ( [iOS](https://apps.apple.com/br/app/sicoob-moob/id1446784675) / [Android](https://play.google.com/store/apps/details?id=br.com.sicoob.moob&hl=pt_BR&gl=US) )|
+|Bornlogic| Gerentes Digitais ( [iOS](https://apps.apple.com/br/app/gerentes-digitais/id1578496893) )|
+|Ipiranga| abastece-aí "Km de Vantagens" ( [iOS](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383) )|
+|Anheuser-Busch InBev| Bees ( [iOS](https://apps.apple.com/br/app/parceiro-bees-brasil/id1487803580) )|
+|FCamara| Banco PAN - Conta Digital ( [iOS](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504) )|
+|Santander| Santander Empresas ( [iOS](https://apps.apple.com/br/app/santander-empresas/id615442443) / [Android](https://play.google.com/store/apps/details?id=com.santandermovelempresarial.app&hl=pt_BR&gl=US) ), Santander Way ( [iOS](https://apps.apple.com/br/app/santander-way/id1154266372) / [Android](https://play.google.com/store/apps/details?id=br.com.santander.way&hl=pt_BR&gl=US) )|
+|Moochies Technologies| MyMoochies ( [iOS](https://apps.apple.com/gb/app/mymoochies/id1585809293) )|
+|PRODESP| Di@rio de Classe SP ( [iOS](https://apps.apple.com/br/app/di-rio-de-classe-sp/id1548962574) )|
+|Natura| Natura Latam ( [iOS](https://apps.apple.com/br/app/natura-perfumes-e-cosm%C3%A9ticos/id1061637276) ), Meditação ( [iOS](https://apps.apple.com/br/app/medita%C3%A7%C3%A3o-natura/id1407427495) )|
+|Itaú| íon Investimentos ( [iOS](https://apps.apple.com/br/app/%C3%ADon-ita%C3%BA-investimentos/id1531733746) )|
+|Webmotors| Cockpit ( [iOS](https://apps.apple.com/br/app/cockpit/id1069917512) ), Autopago ( [iOS](https://apps.apple.com/br/app/webmotors-autopago/id1422505821) )|
+|PRG| Omeupredio Plus ( [iOS](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) ), White-labels ( [iOS](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps) )|  
 
 ## Skills:
 - iOS development (Objective-C, Swift, SwiftUI);
