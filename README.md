@@ -1,6 +1,6 @@
 # It´s "a me", Caio!
 
-I'm a mobile developer with over 8 years of professional experience, approximately 6 years focused on iOS ObjC/Swift/SwiftUI, and brief experiences in other languages such as Kotlin, Java, React Native, and Flutter.
+I'm a mobile developer with over 8 years of professional experience, approximately 6 years focused on iOS (Objective-C, Swift, and SwiftUI), and brief experiences in other technologies such as Android (Java and Kotlin) and frameworks for hybrid development (React Native and Flutter).
 
 In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my boyfriend, friends, and family.
 
@@ -38,9 +38,10 @@ My experience includes working at renowned companies (Meta, Santander, Natura, I
 - Code refactoring, merge conflict resolution, and supporter of the code review culture (Xcode, Visual Studio). 
 
 P.S.: I always try to see the bright side of things and be understanding (an incurable optimist)!
+
 Hobbies:
 
-- Enthusiast of new technologies Artificial Intelligence, Virtual Reality, IoT;
+- Enthusiast of new technologies AI, Virtual Reality, IoT;
 - Comics, books, movies, music, and pop culture;
 - Video games, board games, and card games;
 - Drawing (both manually and digitally);
