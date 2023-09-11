@@ -2,14 +2,15 @@
 
 I'm a mobile developer with over 8 years of professional experience, approximately 6 years focused on iOS (Objective-C, Swift, and SwiftUI), and brief experiences in other technologies such as Android (Java and Kotlin) and frameworks for hybrid development (React Native and Flutter).
 
-In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my boyfriend, friends, and family.
+My experience includes working at renowned companies (Pinterest, Meta, Santander, Natura, Itaú, and Webmotors), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
 
-My experience includes working at renowned companies (Meta, Santander, Natura, Itaú Unibanco, and Webmotors), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
+In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my boyfriend, friends, and family.
 
 ## Past Projects
 
 | Company | App |
 |--|--|
+|BairesDev| Pinterest ( [iOS](https://apps.apple.com/br/app/pinterest/id429047995) )|
 |Meta| SINESP Agente de Campo ( [iOS](https://apps.apple.com/br/app/agente-de-campo/id1513040092) / [Android](https://play.google.com/store/apps/details?id=br.gov.sinesp.agentedecampo&hl=pt_BR&gl=US) )|
 |Mazzatech| Sodexo ( [iOS](https://apps.apple.com/br/app/sodexo-brasil/id921795142) )|
 |Ginga One| Sicoob ( [iOS](https://apps.apple.com/br/app/sicoob/id416696406) / [Android](https://play.google.com/store/apps/details?id=br.com.sicoobnet&hl=pt_BR&gl=US) ), Moob ( [iOS](https://apps.apple.com/br/app/sicoob-moob/id1446784675) / [Android](https://play.google.com/store/apps/details?id=br.com.sicoob.moob&hl=pt_BR&gl=US) )|
@@ -41,7 +42,7 @@ P.S.: I always try to see the bright side of things and be understanding (an inc
 
 Hobbies:
 
-- Enthusiast of new technologies AI, Virtual Reality, IoT;
+- Enthusiast of new technologies, AI, Virtual Reality, IoT;
 - Comics, books, movies, music, and pop culture;
 - Video games, board games, and card games;
 - Drawing (both manually and digitally);
