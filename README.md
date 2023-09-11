@@ -40,7 +40,7 @@ In my free time, I enjoy traveling (especially to the interior of the Northeast 
 
 P.S.: I always try to see the bright side of things and be understanding (an incurable optimist)!
 
-Hobbies:
+## Hobbies:
 
 - Enthusiast of new technologies, AI, Virtual Reality, IoT;
 - Comics, books, movies, music, and pop culture;
