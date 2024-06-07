@@ -10,7 +10,7 @@ In my free time, I enjoy traveling (especially to the interior of the Northeast 
 
 | Company | App |
 |--|--|
-|Live Nation| Ticketmaster SDK ( [iOS]([https://apps.apple.com/br/app/pinterest/id429047995](https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565)) )|
+|Live Nation| Ticketmaster SDK ( [iOS](https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565) )|
 |BairesDev| Pinterest ( [iOS](https://apps.apple.com/br/app/pinterest/id429047995) )|
 |Meta| SINESP Agente de Campo ( [iOS](https://apps.apple.com/br/app/agente-de-campo/id1513040092) / [Android](https://play.google.com/store/apps/details?id=br.gov.sinesp.agentedecampo&hl=pt_BR&gl=US) )|
 |Mazzatech| Sodexo ( [iOS](https://apps.apple.com/br/app/sodexo-brasil/id921795142) )|
