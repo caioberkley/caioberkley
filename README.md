@@ -2,9 +2,9 @@
 
 I'm a mobile developer with over 10 years of professional experience, approximately 8 years focused on iOS (Objective-C, Swift, and SwiftUI), and brief experiences in other technologies such as Android (Java and Kotlin) and frameworks for hybrid development (React Native and Flutter).
 
-My experience includes working at renowned companies (Live Nation, Pinterest, Meta, Santander, Natura, and Itaú), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
+My experience includes working at renowned companies (Live Nation/Ticketmaster, Pinterest, Meta, Santander, and Itaú), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
 
-In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my boyfriend, friends, and family.
+In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my husband, friends, and family.
 
 ## Past Projects
 
