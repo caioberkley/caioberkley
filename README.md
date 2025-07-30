@@ -24,23 +24,23 @@ I’m an experienced iOS Engineer with 8+ years of native mobile development usi
 |PRG| Omeupredio Plus ( [iOS](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) ), White-labels ( [iOS](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps) )|  
 
 ## Key Skills & Tools:
-• iOS: Swift, SwiftUI, Objective-C
-• Agile Environments: Scrum, Kanban
-• Architecture: MVVM, VIPER, MVC, VIP Clean
-• CI/CD: Jenkins, Bitrise, Microsoft App Center
-• Clean Code: SOLID, Modular Design, Unit Testing
-• Dependency Management: CocoaPods, SPM, Carthage
-• Cross-platform familiarity: Kotlin, Java, Flutter, React Native
-• Version Control: Git (GitHub, Bitbucket, GitLab, Azure DevOps)
-• Collaboration: Code Review Culture, Diplomacy, and Proactive Communication
-
-In my spare time, I love traveling (especially to the countryside of northeast Brazil, where I was born) and spending time with my husband, friends, and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
+- iOS: Swift, SwiftUI, Objective-C
+- Agile Environments: Scrum, Kanban
+- Architecture: MVVM, VIPER, MVC, VIP Clean
+- CI/CD: Jenkins, Bitrise, Microsoft App Center
+- Clean Code: SOLID, Modular Design, Unit Testing
+- Dependency Management: CocoaPods, SPM, Carthage
+- Cross-platform familiarity: Kotlin, Java, Flutter, React Native
+- Version Control: Git (GitHub, Bitbucket, GitLab, Azure DevOps)
+- Collaboration: Code Review Culture, Diplomacy, and Proactive Communication
 
 ## Interests:
 
-• Emerging Technologies (AI, VR, IoT)
-• Pop Culture: comics, books, music, movies
-• Activities: Drawing (manual and digital), cycling, hiking, camping
-• Nerd Stuff: video games, board games, card games, action figures, LEGO
+In my spare time, I love traveling (especially to the countryside of northeast Brazil, where I was born) and spending time with my husband, friends, and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
+
+- Emerging Technologies (AI, VR, IoT)
+- Pop Culture: comics, books, music, movies
+- Activities: Drawing (manual and digital), cycling, hiking, camping
+- Nerd Stuff: video games, board games, card games, action figures, LEGO
 
 P.S.: I always try to see the bright side of things and be understanding (an incurable optimist!) 😅
