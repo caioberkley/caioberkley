@@ -6,7 +6,7 @@ My experience includes working at renowned companies (Live Nation/Ticketmaster, 
 
 In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my husband, friends, and family.
 
-## Past Projects
+## Projects
 
 | Company | App |
 |--|--|
