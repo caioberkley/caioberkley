@@ -1,10 +1,6 @@
 # It´s "a me", Caio!
 
-I'm a mobile developer with over 10 years of professional experience, approximately 8 years focused on iOS (Objective-C, Swift, and SwiftUI), and brief experiences in other technologies such as Android (Java and Kotlin) and frameworks for hybrid development (React Native and Flutter).
-
-My experience includes working at renowned companies (Live Nation/Ticketmaster, Pinterest, Meta, Santander, and Itaú), where I honed my skills by working on challenging projects and collaborating with multidisciplinary teams. I was responsible for implementing features, making solution decisions, and contributing to the continuous improvement of the applications.
-
-In my free time, I enjoy traveling (especially to the interior of the Northeast of Brazil, where I was born), exploring new places/cultures, and spending time with my husband, friends, and family.
+I’m an experienced iOS Engineer with 8+ years of native mobile development using Swift, SwiftUI, and Objective-C. I have a proven track record of delivering scalable, high-traffic apps for global companies such as Live Nation - Ticketmaster, Pinterest, Meta, and others. I also have hands-on experience with Android (Java and Kotlin) and hybrid frameworks (React Native and Flutter).
 
 ## Projects
 
@@ -27,24 +23,24 @@ In my free time, I enjoy traveling (especially to the interior of the Northeast 
 |Webmotors| Cockpit ( [iOS](https://apps.apple.com/br/app/cockpit/id1069917512) ), Autopago ( [iOS](https://apps.apple.com/br/app/webmotors-autopago/id1422505821) )|
 |PRG| Omeupredio Plus ( [iOS](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) ), White-labels ( [iOS](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps) )|  
 
-## Skills:
-- iOS development (Objective-C, Swift, SwiftUI);
-- Design patterns/code architecture (MVVM, Viper, MVC, VipClean);
-- Dependency injection (CocoaPods, Swift Package Manager/SPM, Carthage);
-- Version control with GIT (Sourcetree/BitBucket, GitHub, GitLab, Azure DevOps);
-- Experience working remotely in teams that utilize agile practices (Scrum, Kanban);
-- Love writing user-focused, testable, and concise code (Clean Code, SOLID principles);
-- Conflict resolution, always with a proactive and dialogue-oriented approach (Diplomat);
-- Bug fixing and handling smaller tasks for mobile apps in general (Kotlin, Java, React Native, Flutter);
-- Continuous integration and deployment CI/CD environment (Jenkins, Bitrise, Microsoft App Center);
-- Code refactoring, merge conflict resolution, and supporter of the code review culture (Xcode, Visual Studio). 
+## Key Skills & Tools:
+• iOS: Swift, SwiftUI, Objective-C
+• Agile Environments: Scrum, Kanban
+• Architecture: MVVM, VIPER, MVC, VIP Clean
+• CI/CD: Jenkins, Bitrise, Microsoft App Center
+• Clean Code: SOLID, Modular Design, Unit Testing
+• Dependency Management: CocoaPods, SPM, Carthage
+• Cross-platform familiarity: Kotlin, Java, Flutter, React Native
+• Version Control: Git (GitHub, Bitbucket, GitLab, Azure DevOps)
+• Collaboration: Code Review Culture, Diplomacy, and Proactive Communication
 
-P.S.: I always try to see the bright side of things and be understanding (an incurable optimist)!
+In my spare time, I love traveling (especially to the countryside of northeast Brazil, where I was born) and spending time with my husband, friends, and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
 
-## Hobbies:
+## Interests:
 
-- Enthusiast of new technologies, AI, Virtual Reality, IoT;
-- Comics, books, movies, music, and pop culture;
-- Video games, board games, and card games;
-- Drawing (both manually and digitally);
-- Cycling, hiking, and camping.
+• Emerging Technologies (AI, VR, IoT)
+• Pop Culture: comics, books, music, movies
+• Activities: Drawing (manual and digital), cycling, hiking, camping
+• Nerd Stuff: video games, board games, card games, action figures, LEGO
+
+P.S.: I always try to see the bright side of things and be understanding (an incurable optimist!) 😅
