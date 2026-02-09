@@ -36,7 +36,7 @@ I’m an experienced iOS Engineer with 8+ years of native mobile development usi
 
 ## Interests:
 
-In my spare time, I love traveling (especially to the countryside of northeast Brazil, where I was born) and spending time with my husband, friends, and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
+In my spare time, I love traveling (especially to the countryside of northeast Brazil, where I was born) and spending time with my friends and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
 
 - Emerging Technologies (AI, VR, IoT)
 - Pop Culture: comics, books, music, movies
