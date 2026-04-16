@@ -1,6 +1,10 @@
 # It´s "a me", Caio!
 
-I’m an experienced iOS Engineer with 8+ years of native mobile development using Swift, SwiftUI, and Objective-C. I have a proven track record of delivering scalable, high-traffic apps for global companies such as Live Nation - Ticketmaster, Pinterest, Meta, and others. I also have hands-on experience with Android (Java and Kotlin) and hybrid frameworks (React Native and Flutter).
+Senior Mobile Engineer with 9+ years of experience building and shipping mobile products used by thousands to millions of users globally, taking products from idea to production, working closely with founders and product teams to define architecture, shape user experience, and deliver scalable, high-quality mobile applications.
+
+My experience includes companies like Live Nation/Ticketmaster, Pinterest, and Meta, where I worked on high-scale systems, performance optimization, and modular architectures.
+
+I enjoy working in fast-moving, product-driven environments where I can contribute beyond code, helping drive decisions, unblock teams, and ship impactful features.
 
 ## Projects
 
@@ -24,23 +28,22 @@ I’m an experienced iOS Engineer with 8+ years of native mobile development usi
 |PRG| Omeupredio Plus ( [iOS](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) ), White-labels ( [iOS](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps) )|  
 
 ## Key Skills & Tools:
-- iOS: Swift, SwiftUI, Objective-C
-- Agile Environments: Scrum, Kanban
-- Architecture: MVVM, VIPER, MVC, VIP Clean
-- CI/CD: Jenkins, Bitrise, Microsoft App Center
-- Clean Code: SOLID, Modular Design, Unit Testing
+- Languages: Swift, SwiftUI, Obj-C
+- Architecture: MVVM, VIPER, Clean Architecture
 - Dependency Management: CocoaPods, SPM, Carthage
-- Cross-platform familiarity: Kotlin, Java, Flutter, React Native
+- Mobile Platforms: iOS, tvOS, watchOS, macOS, Android
 - Version Control: Git (GitHub, Bitbucket, GitLab, Azure DevOps)
-- Collaboration: Code Review Culture, Diplomacy, and Proactive Communication
+- Testing and CI/CD: XCTest, UI Testing, TDD, GitHub Actions, Bitrise, Jenkins
+- Collaboration: Cross-functional product teams, Agile environments (Scrum, Kanban)
+- AI-assisted development: Cursor, Claude, GitHub Copilot for faster iteration and prototyping
 
 ## Interests:
 
-In my spare time, I love traveling (especially to the countryside of northeast Brazil, where I was born) and spending time with my friends and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
+I love travelling (especially to the countryside of northeast Brazil, where I was born) and spending time with my friends and family. I’m passionate about learning and always approach challenges with a resilient mindset, empathy, and a problem-solving attitude.
 
 - Emerging Technologies (AI, VR, IoT)
 - Pop Culture: comics, books, music, movies
 - Activities: Drawing (manual and digital), cycling, hiking, camping
 - Nerd Stuff: video games, board games, card games, action figures, LEGO
 
-P.S.: I always try to see the bright side of things and be understanding (an incurable optimist!) 😅
+P.S.: I always try to see the bright side of things and be understanding (an incurable optimist!)
