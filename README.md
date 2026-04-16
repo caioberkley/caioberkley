@@ -1,6 +1,6 @@
 # It´s "a me", Caio!
 
-Senior Mobile Engineer with 9+ years of experience building and shipping mobile products used by thousands to millions of users globally, taking products from idea to production, working closely with founders and product teams to define architecture, shape user experience, and deliver scalable, high-quality mobile applications.
+Senior Mobile Engineer with over a decade of experience building and shipping mobile products used by thousands to millions of users globally, taking products from idea to production, working closely with founders and product teams to define architecture, shape user experience, and deliver scalable, high-quality mobile applications.
 
 My experience includes companies like Live Nation/Ticketmaster, Pinterest, and Meta, where I worked on high-scale systems, performance optimization, and modular architectures.
 
@@ -28,7 +28,7 @@ I enjoy working in fast-moving, product-driven environments where I can contribu
 |PRG| Omeupredio Plus ( [iOS](https://apps.apple.com/br/app/omeupredio-plus/id1503807143) ), White-labels ( [iOS](https://apps.apple.com/br/developer/prg-comercio-e-servicos-de-informatica/id1372617406?see-all=i-phonei-pad-apps) )|  
 
 ## Key Skills & Tools:
-- Languages: Swift, SwiftUI, Obj-C
+- Languages: Swift, SwiftUI, Obj-C, Kotlin
 - Architecture: MVVM, VIPER, Clean Architecture
 - Dependency Management: CocoaPods, SPM, Carthage
 - Mobile Platforms: iOS, tvOS, watchOS, macOS, Android
