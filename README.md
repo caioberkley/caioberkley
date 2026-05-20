@@ -4,7 +4,7 @@ Senior Product Engineer and Mobile Architect with 10+ years of experience buildi
 
 Over the years, I’ve worked with companies such as Meta, Pinterest, and Live Nation / Ticketmaster, contributing to products and platforms used by millions of users worldwide. My experience includes modular mobile architectures, SDK development, performance optimization, scalability, and modern iOS engineering practices.
 
-More recently, my focus has shifted toward product engineering and early-stage startups, collaborating closely with founders to turn ideas into polished mobile experiences using SwiftUI, Swift Concurrency, AI-assisted workflows, and Spec-Driven Development approaches.
+More recently, my focus has shifted toward product engineering and early-stage startups, collaborating closely with founders to turn ideas into polished mobile experiences using SwiftUI, Swift Concurrency, AI-native workflow, and Spec-Driven Development approaches.
 
 I enjoy working in fast-moving environments where engineering, product, and user experience are deeply connected (owning features from concept to launch while balancing scalability, usability, and long-term maintainability).
 
@@ -41,7 +41,7 @@ I enjoy working in fast-moving environments where engineering, product, and user
 - **Backend & APIs:** REST, GraphQL, Supabase, PostgreSQL
 - **Testing & CI/CD:** XCTest, UI Testing, TDD, GitHub Actions, Bitrise, Jenkins
 - **Dependency Management:** Swift Package Manager, CocoaPods, Carthage
-- **AI-Assisted Development:** Cursor, Claude, GitHub Copilot
+- **AI Tools:** Cursor, Claude, GitHub Copilot
 - **Tooling:** Firebase, GitHub, GitLab, Bitbucket
 
 ### Personal Interests
