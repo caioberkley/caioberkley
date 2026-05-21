@@ -17,7 +17,7 @@ I enjoy working in fast-moving environments where engineering, product, and user
 
 [![Caio Berkley — Mobile Architect](https://caioberkley.vercel.app/og-preview.png)](https://caioberkley.vercel.app)
 
-Interactive showcase of shipped iOS apps, SDK integrations, and work in progress — filter by stack, platform, and status. Also on [GitHub Pages](https://caioberkley.github.io/portfolio/).
+Interactive showcase of shipped iOS apps, SDK integrations, and work in progress (filter by stack, platform, and status).
 
 ### Key Skills & Tools
 
